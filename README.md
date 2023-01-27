@@ -6,4 +6,4 @@
 
 
 <br>Démarrage client
-## npm start - запуск клиента
+## npm start 
