@@ -1,5 +1,9 @@
-# Не забудь поставить звезду
+# Projet en cours
+<br>shop en ligne utilisant bdd PostgreSQL
 
-## npm run dev - запуск сервера
+<br>Démarrage server
+## npm run dev 
 
+
+<br>Démarrage client
 ## npm start - запуск клиента
